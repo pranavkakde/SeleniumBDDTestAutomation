@@ -7,7 +7,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <cucumber-jvm.version>1.2.4</cucumber-jvm.version>
     <selenium.version>3.11.0</selenium.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
   </properties>
   <dependencies>
 <dependency>
